@@ -93,4 +93,7 @@ for Multivariate Time Series Analysis</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Normalizing-Flow-Papers/blob/master/n(50).pdf" style="text-decoration:none;">On the Sentence Embeddings from Pre-trained Language Models</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Normalizing-Flow-Papers/blob/master/n(51).pdf" style="text-decoration:none;">SRFlow: Learning the Super-Resolution Space with Normalizing Flow</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Normalizing-Flow-Papers/blob/master/n(52).pdf" style="text-decoration:none;">SoftFlow: Probabilistic Framework for Normalizing Flow on Manifolds</a></li> 
+  
+  
 </ul>
